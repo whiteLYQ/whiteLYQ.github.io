@@ -1,7 +1,8 @@
-ayout: page
+---
+layout: page
 title: "About"
-description: "「common person」"
-header-img: "img/smile.jpg"
+description: "「他单纯只想把日子过得不浪费」"
+header-img: "img/bg-me-2022.jpg"
 header-mask: 0.3
 multilingual: true
 ---
@@ -14,6 +15,11 @@ multilingual: true
     {{ about_zh | markdownify }}
 </div>
 
+<!-- English Version -->
+<div class="en post-container">
+    {% capture about_en %}{% include about/en.md %}{% endcapture %}
+    {{ about_en | markdownify }}
+</div>
 
 
 {% if site.disqus_username %}
@@ -40,5 +46,3 @@ multilingual: true
 </script>
 <!-- disqus 公共JS代码 end -->
 {% endif %}
-
-
