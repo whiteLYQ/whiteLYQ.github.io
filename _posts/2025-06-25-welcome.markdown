@@ -10,8 +10,6 @@ tags:
     - welcome
 ---
 
-> “Yeah It's on. ”
-
 
 
 ## 正文
