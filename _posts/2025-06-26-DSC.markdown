@@ -1,9 +1,16 @@
-
-
-
-
-高温DSC-404Jun 26, 2025
-Zhfy操作手册
+---
+layout: post
+title: "高温DSC-404"
+subtitle: "Zhfy操作手册"
+date:  2025-06-26 
+author: "Zhfy"
+header-style: text
+lang: zh
+tags:
+  - study
+  - 笔记
+---
+## 正文
 * 连接氩气（Ar）钢瓶，并检查剩余气压大于等于2Mpa,若小于2MPa时建议更换新的气瓶。 打开氩⽓钢瓶总压⼒阀，并调节减压阀压⼒在0.05MPa左右，最⾼不能超过0.1MPa，否则容易损坏质量流量计MFC。
 * 打开DSC404F3主机电源（后面）。
 * 打开电脑主机，打开桌面上的DSC-404F3 on USBcl控制软件进入控制界面。
