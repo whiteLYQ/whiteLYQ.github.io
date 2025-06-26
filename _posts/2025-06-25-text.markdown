@@ -1,14 +1,14 @@
 ---
-layout:     post
-title:      "Hello 2025"
-subtitle:   " \"Hello World, Hello Blog\""
-date:       2025-06-25 23:25:23
-author:     "Zhfy"
-catalog: flse
+layout: post
+title: "DAC introduction"
+subtitle: "开始学习"
+author: "Zhfy"
+header-style: text
+lang: zh
 tags:
-    - welcome
+  - study
+  - 笔记
 ---
-
 
 
 ## 正文
