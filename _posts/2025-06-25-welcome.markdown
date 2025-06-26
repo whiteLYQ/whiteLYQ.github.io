@@ -5,7 +5,7 @@ subtitle:   " \"Hello World, Hello Blog\""
 date:       2025-06-25 23:25:23
 author:     "Zhfy"
 header-img: "img/post-bg-2015.jpg"
-catalog: flse
+catalog: true
 tags:
     - welcome
 ---
@@ -20,5 +20,6 @@ tags:
 ## group（AMAT）
 
 [AMAT - 高压材料先进表征平台 (HPSTAR)](http://hpstar.ac.cn/channels/998.html)
+
 ## reference
 [AMAT 博士毕业论文](https://pan.quark.cn/s/7c4c16af6244)
